@@ -4,11 +4,17 @@ Se pretende crear un prototipo para una aplicación que pueda gestionar un menú
 
 - Por el momento, los botones no deben mostrar funcionalidad.
 - Utilice los siguientes módulos:
-      import kivy
-      kivy.require('1.11.1')
-      from kivy.app import App
-      from kivy.uix.boxlayout import BoxLayout
-      from kivy.uix.gridlayout import GridLayout
+
+	```
+import kivy
+kivy.require('1.11.1')
+from kivy.app import App
+from kivy.uix.boxlayout import BoxLayout
+from kivy.uix.gridlayout import GridLayout
+
+	```
+
+
 
 Recursos
 
