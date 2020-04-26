@@ -6,6 +6,7 @@ Se pretende crear un prototipo para una aplicación que pueda gestionar un menú
 - Utilice los siguientes módulos:
 
 	```python
+
 import kivy
 kivy.require('1.11.1')
 from kivy.app import App
